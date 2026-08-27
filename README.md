@@ -11,9 +11,6 @@
 ### 3. Cloner le repo
 ```git clone https://github.com/protechnopolis/pterodactyl-fr```
 
-## 4. changer le nom du dossier
-```sudo mv en fr```
-
-## 5. Redémarrer la machine 
+## 4. Redémarrer la machine 
 ```sudo reboot```
 
